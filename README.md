@@ -1,2 +1,2 @@
 # myLeetCode
-该项目存放leetcode刷题代码~
+该项目存放LeetCode刷题代码~
